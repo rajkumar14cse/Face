@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url("About-us.jpg");
+    height: 100%;
+    width: 100%;
+    
+}
+.hero {
+    background: url('background.jpg') center/cover no-repeat fixed;
+    color: red;
+    text-align: center;
+    padding: 80px 20px;
+    
+   
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px 0;
+    text-align: center;
+    color:white;
+}
+
+
+h2 {
+    color: red;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.contact {
+    padding: 20px 0;
+}
+
+footer {
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
